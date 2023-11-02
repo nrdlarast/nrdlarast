@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **machine learning**
 - 👨‍💻 All of my projects are available at [https://github.com/nrdlarast](https://github.com/nrdlarast)
 - 💬 Ask me about **python**
-- 📫 How to reach me **nuridalrst@yahoo.com**
+- 📫 How to reach me **nurida.larasati.work@gmail.com**
 - ⚡ Fun fact **I'm familiar with several code languages.ie python,php,**
 
 ### 🛠 Tech Stack
